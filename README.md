@@ -2,7 +2,7 @@
 
 Canale ufficiale degli aggiornamenti firmati di BWA Desktop.
 
-- [Installa BWA Desktop 0.6.41](BWA-Desktop-0.6.41-Setup.exe)
+- [Installa BWA Desktop 0.6.42](BWA-Desktop-0.6.42-Setup.exe)
 - [Installa BWA Assistenza 1.5](BWA-Assistenza-1.5-Setup.exe)
 
 La nuova attivazione permette al responsabile di generare un codice monouso per i nuovi PC:

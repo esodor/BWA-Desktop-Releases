@@ -1,0 +1,2 @@
+1dd4f9b80810d9b300533104fdb3b429b657c5d3d3c89ee2617aa27d87a1c96d  BWA-Desktop-0.6.55-Setup.exe
+0b769cc24a95e7c321983380aa5e33163781aec0a15ef60f3a4ebd2a2992c68a  BWA-Desktop-0.6.55-update.zip

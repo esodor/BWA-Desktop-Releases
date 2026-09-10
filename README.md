@@ -2,7 +2,7 @@
 
 Canale ufficiale degli aggiornamenti firmati di BWA Desktop.
 
-- [Installa BWA Desktop 0.6.61](BWA-Desktop-0.6.61-Setup.exe)
+- [Installa BWA Desktop 0.6.62](BWA-Desktop-0.6.62-Setup.exe)
 - [Installa BWA Assistenza 1.5](BWA-Assistenza-1.5-Setup.exe)
 
 La nuova attivazione permette al responsabile di generare un codice monouso per i nuovi PC:
@@ -26,3 +26,5 @@ Novita 0.6.59: Nesto apre separatamente i dettagli Crew e Manager con il pulsant
 Novita 0.6.60: selezione dei mesi Bomito tramite i collegamenti precedenti/successivi del periodo, indipendentemente dalla posizione dei pulsanti. Verifica del mese richiesto prima dell'estrazione. Collaudato il passaggio da settembre ad agosto.
 
 Novita 0.6.61: Nesto attiva la voce Wage evaluation direttamente attraverso il controllo della pagina, una sola volta, senza dipendere dalla posizione sullo schermo. Se il menu e gia aperto viene mantenuto. Collaudo reale completato con lettura Crew, Manager, Holiday e sick.
+
+Novita 0.6.62: Nesto riconosce la colonna della data giornaliera indipendentemente dal separatore data impostato in Windows. Risolto il blocco daily-header-not-found durante la lettura Manager, conservando i controlli sulla data richiesta e sulla colonna cumulata.

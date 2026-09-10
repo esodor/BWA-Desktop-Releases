@@ -2,7 +2,7 @@
 
 Canale ufficiale degli aggiornamenti firmati di BWA Desktop.
 
-- [Installa BWA Desktop 0.6.64](BWA-Desktop-0.6.64-Setup.exe)
+- [Installa BWA Desktop 0.6.66](BWA-Desktop-0.6.66-Setup.exe)
 - [Installa BWA Assistenza 1.5](BWA-Assistenza-1.5-Setup.exe)
 
 La nuova attivazione permette al responsabile di generare un codice monouso per i nuovi PC:
@@ -32,3 +32,5 @@ Novita 0.6.62: Nesto riconosce la colonna della data giornaliera indipendentemen
 Novita 0.6.63: diagnostica GitHub con estratto tecnico del log (ultimi 96 KiB per errore), filtrato per credenziali, link, email e percorsi locali. Invio automatico dopo gli errori per i PC con diagnostica GitHub attiva; gli invii non riusciti restano in attesa. I dettagli possono contenere date e importi utili alla diagnosi. I nuovi dettagli sono disponibili per gli errori successivi all'aggiornamento.
 
 Novita 0.6.64: Bomito non segnala piu un ristorante errato quando il risultato verificato non contiene fatture da importare. Gli importi archiviati restano invariati. La scansione manuale mostra un messaggio informativo; il controllo automatico continua senza avvisi ripetuti. I controlli su mese, completezza e ristorante delle fatture presenti restano attivi.
+
+Novita 0.6.66: corretto il riconoscimento Munhowen con nome ristorante su due righe. Controlli sugli importi, esclusione cauzioni e doppioni mantenuti. La correzione non include il catalogo condiviso in preparazione.

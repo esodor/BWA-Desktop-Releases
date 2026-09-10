@@ -2,7 +2,7 @@
 
 Canale ufficiale degli aggiornamenti firmati di BWA Desktop.
 
-- [Installa BWA Desktop 0.6.60](BWA-Desktop-0.6.60-Setup.exe)
+- [Installa BWA Desktop 0.6.61](BWA-Desktop-0.6.61-Setup.exe)
 - [Installa BWA Assistenza 1.5](BWA-Assistenza-1.5-Setup.exe)
 
 La nuova attivazione permette al responsabile di generare un codice monouso per i nuovi PC:
@@ -24,3 +24,5 @@ Novita 0.6.58: il pagamento Uber Eats viene riconosciuto come Uber Eats External
 Novita 0.6.59: Nesto apre separatamente i dettagli Crew e Manager con il pulsante della rispettiva riga e ritenta solo se il dettaglio e ancora chiuso. Bomito seleziona il ristorante anche fuori dalla parte visibile della pagina, attende la conferma della navigazione e riconosce la vista contabile anche senza movimenti Food. Il progetto Food Cost sperimentale resta escluso.
 
 Novita 0.6.60: selezione dei mesi Bomito tramite i collegamenti precedenti/successivi del periodo, indipendentemente dalla posizione dei pulsanti. Verifica del mese richiesto prima dell'estrazione. Collaudato il passaggio da settembre ad agosto.
+
+Novita 0.6.61: Nesto attiva la voce Wage evaluation direttamente attraverso il controllo della pagina, una sola volta, senza dipendere dalla posizione sullo schermo. Se il menu e gia aperto viene mantenuto. Collaudo reale completato con lettura Crew, Manager, Holiday e sick.

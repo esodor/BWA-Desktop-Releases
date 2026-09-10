@@ -2,7 +2,7 @@
 
 Canale ufficiale degli aggiornamenti firmati di BWA Desktop.
 
-- [Installa BWA Desktop 0.6.70](BWA-Desktop-0.6.70-Setup.exe)
+- [Installa BWA Desktop 0.6.71](BWA-Desktop-0.6.71-Setup.exe)
 - [Installa BWA Assistenza 1.5](BWA-Assistenza-1.5-Setup.exe)
 
 La nuova attivazione permette al responsabile di generare un codice monouso per i nuovi PC:
@@ -42,3 +42,5 @@ Novita 0.6.68: Admin > Carica modello Word fatture clienti. Il modello compatibi
 Novita 0.6.69: guide Mini Matteo in italiano, inglese, francese e tedesco. Presentazione app al primo accesso di ciascun utilizzatore, ripetibile da Aiuto Mini Matteo nella Dashboard. Chiusura assistita ripetibile nella pagina di chiusura, con verifica del completamento di analisi e salvataggio. Guide disponibili anche senza Ollama; nessun invio email o conferma contabile eseguito dalla guida. Food Cost sperimentale e catalogo condiviso esclusi.
 
 Novita 0.6.70: Mini Matteo traduce correttamente Chiudi, aggiorna le conoscenze su guide, AI locale e modelli Word, risponde subito alle domande frequenti aggiunte e non riutilizza le vecchie istruzioni memorizzate. Il lettore Munhowen riconosce i pesi con separatore delle migliaia, conservando controlli sui totali ed esclusione delle cauzioni.
+
+Novita 0.6.71: rimossa dalla bozza email di chiusura la nota automatica BWA provvisorio e sulle categorie da completare. Controlli e segnalazioni restano disponibili nel programma. Le bozze gia create devono essere rigenerate.

@@ -2,7 +2,7 @@
 
 Canale ufficiale degli aggiornamenti firmati di BWA Desktop.
 
-- [Installa BWA Desktop 0.6.71](BWA-Desktop-0.6.71-Setup.exe)
+- [Installa BWA Desktop 0.6.72](BWA-Desktop-0.6.72-Setup.exe)
 - [Installa BWA Assistenza 1.5](BWA-Assistenza-1.5-Setup.exe)
 
 La nuova attivazione permette al responsabile di generare un codice monouso per i nuovi PC:
@@ -44,3 +44,5 @@ Novita 0.6.69: guide Mini Matteo in italiano, inglese, francese e tedesco. Prese
 Novita 0.6.70: Mini Matteo traduce correttamente Chiudi, aggiorna le conoscenze su guide, AI locale e modelli Word, risponde subito alle domande frequenti aggiunte e non riutilizza le vecchie istruzioni memorizzate. Il lettore Munhowen riconosce i pesi con separatore delle migliaia, conservando controlli sui totali ed esclusione delle cauzioni.
 
 Novita 0.6.71: rimossa dalla bozza email di chiusura la nota automatica BWA provvisorio e sulle categorie da completare. Controlli e segnalazioni restano disponibili nel programma. Le bozze gia create devono essere rigenerate.
+
+Novita 0.6.72: Mini Matteo mostra il contante disponibile e un suggerimento Brinks in banconote, arrotondato per difetto a multipli di 5 euro. Il versamento effettivo e modificabile. Tips cucina suggerite pari all 1% del lordo, arrotondate ai centesimi e modificabili prima del salvataggio in riga 74. Il suggerimento non sostituisce il conteggio delle banconote disponibili. Guide e risposte aggiornate nelle quattro lingue.

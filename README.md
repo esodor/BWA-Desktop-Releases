@@ -2,7 +2,7 @@
 
 Canale ufficiale degli aggiornamenti firmati di BWA Desktop.
 
-- [Installa BWA Desktop 0.6.74](BWA-Desktop-0.6.74-Setup.exe)
+- [Installa BWA Desktop 0.6.78](BWA-Desktop-0.6.78-Setup.exe)
 - [Installa BWA Assistenza 1.6](BWA-Assistenza-1.6-Setup.exe)
 
 La nuova attivazione permette al responsabile di generare un codice monouso per i nuovi PC:
@@ -50,3 +50,5 @@ Novita 0.6.72: Mini Matteo mostra il contante disponibile e un suggerimento Brin
 Novita 0.6.74: mappatura condivisa cifrata e firmata, scaricata con la connessione privata o il codice di attivazione. Cache protetta da Windows; correzioni locali prioritarie. Sincronizzazione all'avvio e ogni 30 minuti, anche manualmente in Admin. Nessun catalogo in chiaro o chiave privata negli installer. Food Cost sperimentale e allegati automatici all'assistenza in preparazione restano esclusi.
 
 BWA Assistenza 1.6: pubblicazione di cataloghi approvati dal PC editore autorizzato, con chiave di firma locale non distribuita nell'installer.
+
+Novita 0.6.78: Petty Cash multipli e IVA dettagliata, rettifiche fatture persistenti, miglioramenti alla reattivita e Mini Matteo, import recensioni, client di sola consultazione e diagnostica con immagini. Aggiornamento cumulativo; dati esistenti conservati. [Novita](NOVITA-0.6.78.md), [guida](GUIDA-0.6.78.md), [collaudo e limiti](COLLAUDO-0.6.78.md).

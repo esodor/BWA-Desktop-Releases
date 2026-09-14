@@ -2,7 +2,7 @@
 
 Canale ufficiale degli aggiornamenti firmati di BWA Desktop.
 
-- [Installa BWA Desktop 0.6.78](BWA-Desktop-0.6.78-Setup.exe)
+- [Installa BWA Desktop 0.6.79](BWA-Desktop-0.6.79-Setup.exe)
 - [Installa BWA Assistenza 1.6](BWA-Assistenza-1.6-Setup.exe)
 
 La nuova attivazione permette al responsabile di generare un codice monouso per i nuovi PC:
@@ -52,3 +52,5 @@ Novita 0.6.74: mappatura condivisa cifrata e firmata, scaricata con la connessio
 BWA Assistenza 1.6: pubblicazione di cataloghi approvati dal PC editore autorizzato, con chiave di firma locale non distribuita nell'installer.
 
 Novita 0.6.78: Petty Cash multipli e IVA dettagliata, rettifiche fatture persistenti, miglioramenti alla reattivita e Mini Matteo, import recensioni, client di sola consultazione e diagnostica con immagini. Aggiornamento cumulativo; dati esistenti conservati. [Novita](NOVITA-0.6.78.md), [guida](GUIDA-0.6.78.md), [collaudo e limiti](COLLAUDO-0.6.78.md).
+
+Novita 0.6.79: modello BWA preparato in background e cache per mese, frequenze automatiche configurabili, consultazione con coperti/scontrino medio e fatture nette. Collegamento della consultazione con codice anche su archivi esistenti, senza cambiare il backup. [Guida](GUIDA-0.6.79.md) · [Collaudo e limiti](COLLAUDO-0.6.79.md).

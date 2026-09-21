@@ -1,0 +1,3 @@
+0037003b22a92685d3daa84f989da40bf5d3596f5d234b20e75b4cd2e3dea20b  BWA-Desktop-0.6.89-Setup.exe
+61e254c5adabe3bb39ed635552f7d31345fb5fb02932a46224e19eaa8f73835a  BWA-Desktop-0.6.89-update.zip
+396c19979e16cafb868ac3531fd5b33febe05b42848984d507c398bfcfb8acb8  bwa-connessione.json

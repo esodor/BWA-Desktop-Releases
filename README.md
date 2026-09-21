@@ -2,11 +2,11 @@
 
 Canale ufficiale degli aggiornamenti firmati di BWA Desktop.
 
-**Versione 0.6.89**: dashboard, importazione BWA, HR, salari, tips e Food/Beverage cost con inventario iniziale del ristorante. [Novità](NOVITA-0.6.89.md) · [Verifiche e limiti](COLLAUDO-0.6.89.md).
+**Versione 0.6.90**: corretto il riconoscimento di Regional Voucher, con registrazione nella riga 39 di Cash Reconciliation. [Novità](NOVITA-0.6.90.md) · [Verifiche e limiti](COLLAUDO-0.6.90.md).
 
 Al primo accesso dopo l’aggiornamento, ogni utilizzatore sceglie la propria password. Per i PC già installati usare il controllo aggiornamenti dentro BWA; il setup è destinato alle nuove installazioni.
 
-- [Installa BWA Desktop 0.6.89](BWA-Desktop-0.6.89-Setup.exe)
+- [Installa BWA Desktop 0.6.90](BWA-Desktop-0.6.90-Setup.exe)
 - [Installa BWA Assistenza 1.6](BWA-Assistenza-1.6-Setup.exe)
 
 La nuova attivazione permette al responsabile di generare un codice monouso per i nuovi PC:

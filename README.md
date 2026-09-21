@@ -2,11 +2,11 @@
 
 Canale ufficiale degli aggiornamenti firmati di BWA Desktop.
 
-**Versione 0.6.85**: Mini Matteo personale, promemoria con notifiche, password degli utilizzatori e sincronizzazione delle modifiche Excel. [Novità e istruzioni](NOVITA-0.6.85.md) · [Verifiche eseguite](COLLAUDO-0.6.85.md).
+**Versione 0.6.87**: dashboard, importazione BWA, HR, salari e tips. [Novità](NOVITA-0.6.87.md) · [Verifiche e limiti](COLLAUDO-0.6.87.md).
 
 Al primo accesso dopo l’aggiornamento, ogni utilizzatore sceglie la propria password. Per i PC già installati usare il controllo aggiornamenti dentro BWA; il setup è destinato alle nuove installazioni.
 
-- [Installa BWA Desktop 0.6.85](BWA-Desktop-0.6.85-Setup.exe)
+- [Installa BWA Desktop 0.6.87](BWA-Desktop-0.6.87-Setup.exe)
 - [Installa BWA Assistenza 1.6](BWA-Assistenza-1.6-Setup.exe)
 
 La nuova attivazione permette al responsabile di generare un codice monouso per i nuovi PC:

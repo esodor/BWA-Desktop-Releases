@@ -2,11 +2,11 @@
 
 Canale ufficiale degli aggiornamenti firmati di BWA Desktop.
 
-**Versione 0.6.91**: corretto il riconoscimento del browser dedicato per Nesto, Bomito e Lightspeed; conservata la mappatura Regional Voucher in riga 39. [Novità](NOVITA-0.6.91.md) · [Verifiche e limiti](COLLAUDO-0.6.91.md).
+**Versione 0.6.92**: corretta la lettura prematura dei conti Bomito durante il caricamento della vista mensile; controlli contabili e correzioni precedenti conservati. [Novità](NOVITA-0.6.92.md) · [Verifiche e limiti](COLLAUDO-0.6.92.md).
 
 Al primo accesso dopo l’aggiornamento, ogni utilizzatore sceglie la propria password. Per i PC già installati usare il controllo aggiornamenti dentro BWA; il setup è destinato alle nuove installazioni.
 
-- [Installa BWA Desktop 0.6.91](BWA-Desktop-0.6.91-Setup.exe)
+- [Installa BWA Desktop 0.6.92](BWA-Desktop-0.6.92-Setup.exe)
 - [Installa BWA Assistenza 1.6](BWA-Assistenza-1.6-Setup.exe)
 
 La nuova attivazione permette al responsabile di generare un codice monouso per i nuovi PC:

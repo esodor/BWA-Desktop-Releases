@@ -1,13 +1,15 @@
 # BWA Desktop Releases
 
-Canale ufficiale degli aggiornamenti firmati di BWA Desktop.
+Canale di passaggio degli aggiornamenti firmati di BWA Desktop. Dalla 0.6.95 il programma controlla i nuovi aggiornamenti su Hetzner. Questo canale resta disponibile per i PC con versioni precedenti.
 
-**Versione 0.6.93**: corretto il messaggio di accesso Bomito incompleto, prima eliminato dai filtri di protezione; filtri e comportamento di accesso invariati. [Novità](NOVITA-0.6.93.md) · [Verifiche e limiti](COLLAUDO-0.6.93.md).
+**Versione 0.6.95**: BWA resta locale; aggiornamenti firmati su Hetzner, backup cifrati con configurazione individuale e collegamento AI RunPod. [Novità](NOVITA-0.6.95.md) · [Verifiche e limiti](COLLAUDO-0.6.95.md).
 
 Al primo accesso dopo l’aggiornamento, ogni utilizzatore sceglie la propria password. Per i PC già installati usare il controllo aggiornamenti dentro BWA; il setup è destinato alle nuove installazioni.
 
-- [Installa BWA Desktop 0.6.93](BWA-Desktop-0.6.93-Setup.exe)
+- [Installa BWA Desktop 0.6.95](BWA-Desktop-0.6.95-Setup.exe)
 - [Installa BWA Assistenza 1.6](BWA-Assistenza-1.6-Setup.exe)
+
+Backup e AI richiedono una configurazione privata per ciascun PC. Catalogo, assistenza, diagnostica e attivazioni esistenti possono ancora dipendere da GitHub. Il setup 0.6.95 non scarica automaticamente un modello AI locale; le note delle versioni precedenti descrivono il comportamento storico.
 
 La nuova attivazione permette al responsabile di generare un codice monouso per i nuovi PC:
 collega backup e assistenza senza inserire il token GitHub sul PC del ristorante.

@@ -1,62 +1,11 @@
-# BWA Desktop Releases
+# BWA Desktop
 
-Canale di passaggio degli aggiornamenti firmati di BWA Desktop. Dalla 0.6.95 il programma controlla i nuovi aggiornamenti su Hetzner. Questo canale resta disponibile per i PC con versioni precedenti.
+Versione disponibile: **0.6.96** — 25 settembre 2026.
 
-**Versione 0.6.95**: BWA resta locale; aggiornamenti firmati su Hetzner, backup cifrati con configurazione individuale e collegamento AI RunPod. [Novità](NOVITA-0.6.95.md) · [Verifiche e limiti](COLLAUDO-0.6.95.md).
+Per un programma già installato: **Admin → Controlla aggiornamenti**. Il canale GitHub permette anche alle versioni precedenti di raggiungere il nuovo canale Hetzner. L'aggiornamento conserva dati e impostazioni locali e crea una copia della versione precedente.
 
-Al primo accesso dopo l’aggiornamento, ogni utilizzatore sceglie la propria password. Per i PC già installati usare il controllo aggiornamenti dentro BWA; il setup è destinato alle nuove installazioni.
+[Novità della 0.6.96](NOVITA-0.6.96.md) · [Controlli e limiti](COLLAUDO-0.6.96.md)
 
-- [Installa BWA Desktop 0.6.95](BWA-Desktop-0.6.95-Setup.exe)
-- [Installa BWA Assistenza 1.6](BWA-Assistenza-1.6-Setup.exe)
+Per una nuova installazione Windows: [Scarica BWA Desktop 0.6.96 Setup](https://mini-matteo.91-99-106-41.sslip.io/updates/BWA-Desktop-0.6.96-Setup.exe).
 
-Backup e AI richiedono una configurazione privata per ciascun PC. Catalogo, assistenza, diagnostica e attivazioni esistenti possono ancora dipendere da GitHub. Il setup 0.6.95 non scarica automaticamente un modello AI locale; le note delle versioni precedenti descrivono il comportamento storico.
-
-La nuova attivazione permette al responsabile di generare un codice monouso per i nuovi PC:
-collega backup e assistenza senza inserire il token GitHub sul PC del ristorante.
-I PC gia configurati mantengono le connessioni e i dati esistenti.
-
-I pacchetti includono il modello BWA pulito, senza dati o credenziali dei ristoranti.
-
-Novita 0.6.57: ordini GVS e Munhowen, controlli Outlook ogni 5 minuti e Bomito ogni 30 minuti mentre BWA e in esecuzione, importazione automatica senza doppioni, categorie da fatture Bomito e segnalazioni dettagliate. Sono supportate le conferme GVS in francese e inglese. Selezionare la casella Outlook nella sezione Ordini; gli accessi Bomito restano in Admin.
-
-
-
-
-
-
-
-Novita 0.6.58: il pagamento Uber Eats viene riconosciuto come Uber Eats External nella chiusura automatica e nel controllo mensile. La correzione mantiene i controlli sui totali e usa la stessa riga 55 di Cash Reconciliation. Il progetto Food Cost sperimentale non e incluso.
-
-Novita 0.6.59: Nesto apre separatamente i dettagli Crew e Manager con il pulsante della rispettiva riga e ritenta solo se il dettaglio e ancora chiuso. Bomito seleziona il ristorante anche fuori dalla parte visibile della pagina, attende la conferma della navigazione e riconosce la vista contabile anche senza movimenti Food. Il progetto Food Cost sperimentale resta escluso.
-
-Novita 0.6.60: selezione dei mesi Bomito tramite i collegamenti precedenti/successivi del periodo, indipendentemente dalla posizione dei pulsanti. Verifica del mese richiesto prima dell'estrazione. Collaudato il passaggio da settembre ad agosto.
-
-Novita 0.6.61: Nesto attiva la voce Wage evaluation direttamente attraverso il controllo della pagina, una sola volta, senza dipendere dalla posizione sullo schermo. Se il menu e gia aperto viene mantenuto. Collaudo reale completato con lettura Crew, Manager, Holiday e sick.
-
-Novita 0.6.62: Nesto riconosce la colonna della data giornaliera indipendentemente dal separatore data impostato in Windows. Risolto il blocco daily-header-not-found durante la lettura Manager, conservando i controlli sulla data richiesta e sulla colonna cumulata.
-
-Novita 0.6.63: diagnostica GitHub con estratto tecnico del log (ultimi 96 KiB per errore), filtrato per credenziali, link, email e percorsi locali. Invio automatico dopo gli errori per i PC con diagnostica GitHub attiva; gli invii non riusciti restano in attesa. I dettagli possono contenere date e importi utili alla diagnosi. I nuovi dettagli sono disponibili per gli errori successivi all'aggiornamento.
-
-Novita 0.6.64: Bomito non segnala piu un ristorante errato quando il risultato verificato non contiene fatture da importare. Gli importi archiviati restano invariati. La scansione manuale mostra un messaggio informativo; il controllo automatico continua senza avvisi ripetuti. I controlli su mese, completezza e ristorante delle fatture presenti restano attivi.
-
-Novita 0.6.66: corretto il riconoscimento Munhowen con nome ristorante su due righe. Controlli sugli importi, esclusione cauzioni e doppioni mantenuti. La correzione non include il catalogo condiviso in preparazione.
-
-Novita 0.6.67: il setup prepara Ollama e il modello locale qwen2.5:7b prima di dichiarare conclusa l'installazione. Download iniziale di diversi GB, connessione Internet necessaria. Riutilizza componenti gia presenti; verifica checksum ufficiale e firma dell'installer. Se fallisce si puo riprovare senza reinstallare BWA. Per PC gia installati: Admin > Prepara AI Mini Matteo. Flusso collaudato con dipendenze simulate; prova completa su PC pulito ancora da confermare. Nessun catalogo condiviso incluso.
-
-Novita 0.6.68: Admin > Carica modello Word fatture clienti. Il modello compatibile del ristorante viene conservato localmente e nei backup, quindi riutilizzato nelle fatture automatiche. Date, ticket, IVA e totali aggiornati senza modificare intestazione e coordinate bancarie. Righe IVA in ordine diverso supportate; corretti i campi data automatici Word. Il testo libero del modello resta invariato. Nessun modello privato aggiunto al pacchetto.
-
-Novita 0.6.69: guide Mini Matteo in italiano, inglese, francese e tedesco. Presentazione app al primo accesso di ciascun utilizzatore, ripetibile da Aiuto Mini Matteo nella Dashboard. Chiusura assistita ripetibile nella pagina di chiusura, con verifica del completamento di analisi e salvataggio. Guide disponibili anche senza Ollama; nessun invio email o conferma contabile eseguito dalla guida. Food Cost sperimentale e catalogo condiviso esclusi.
-
-Novita 0.6.70: Mini Matteo traduce correttamente Chiudi, aggiorna le conoscenze su guide, AI locale e modelli Word, risponde subito alle domande frequenti aggiunte e non riutilizza le vecchie istruzioni memorizzate. Il lettore Munhowen riconosce i pesi con separatore delle migliaia, conservando controlli sui totali ed esclusione delle cauzioni.
-
-Novita 0.6.71: rimossa dalla bozza email di chiusura la nota automatica BWA provvisorio e sulle categorie da completare. Controlli e segnalazioni restano disponibili nel programma. Le bozze gia create devono essere rigenerate.
-
-Novita 0.6.72: Mini Matteo mostra il contante disponibile e un suggerimento Brinks in banconote, arrotondato per difetto a multipli di 5 euro. Il versamento effettivo e modificabile. Tips cucina suggerite pari all 1% del lordo, arrotondate ai centesimi e modificabili prima del salvataggio in riga 74. Il suggerimento non sostituisce il conteggio delle banconote disponibili. Guide e risposte aggiornate nelle quattro lingue.
-
-Novita 0.6.74: mappatura condivisa cifrata e firmata, scaricata con la connessione privata o il codice di attivazione. Cache protetta da Windows; correzioni locali prioritarie. Sincronizzazione all'avvio e ogni 30 minuti, anche manualmente in Admin. Nessun catalogo in chiaro o chiave privata negli installer. Food Cost sperimentale e allegati automatici all'assistenza in preparazione restano esclusi.
-
-BWA Assistenza 1.6: pubblicazione di cataloghi approvati dal PC editore autorizzato, con chiave di firma locale non distribuita nell'installer.
-
-Novita 0.6.78: Petty Cash multipli e IVA dettagliata, rettifiche fatture persistenti, miglioramenti alla reattivita e Mini Matteo, import recensioni, client di sola consultazione e diagnostica con immagini. Aggiornamento cumulativo; dati esistenti conservati. [Novita](NOVITA-0.6.78.md), [guida](GUIDA-0.6.78.md), [collaudo e limiti](COLLAUDO-0.6.78.md).
-
-Novita 0.6.79: modello BWA preparato in background e cache per mese, frequenze automatiche configurabili, consultazione con coperti/scontrino medio e fatture nette. Collegamento della consultazione con codice anche su archivi esistenti, senza cambiare il backup. [Guida](GUIDA-0.6.79.md) · [Collaudo e limiti](COLLAUDO-0.6.79.md).
+Il setup richiede una cartella vuota. Non usarlo per sostituire un'installazione esistente. Ogni ristorante mantiene i propri accessi, archivi e collegamenti privati; non sono distribuiti credenziali o dati di altri PC.

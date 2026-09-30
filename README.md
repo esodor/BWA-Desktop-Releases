@@ -1,11 +1,12 @@
-# BWA Desktop
+# BWA Desktop — trasferito su Mini Matteo Server
 
-Versione **0.6.101** — passaggio alla nuova firma.
+Dal 30 settembre 2026, gli aggiornamenti di BWA Desktop vengono pubblicati su Hetzner.
 
-**Per chi usa una versione precedente, il primo aggiornamento è manuale.** Salvare il lavoro e uscire da BWA, avviare il pacchetto seguente e selezionare la cartella esistente del programma.
+[Download e istruzioni dal nuovo server](https://mini-matteo.91-99-106-41.sslip.io/updates/)
 
-[Scarica aggiornamento manuale 0.6.101](https://raw.githubusercontent.com/esodor/BWA-Desktop-Releases/main/BWA-Aggiornamento-Manuale-0.6.101.exe)
+- **BWA già installato:** scarica dal server l’aggiornamento manuale 0.6.102, salva il lavoro e scegli Esci in BWA prima di avviarlo.
+- **Versione 0.6.101 o successiva:** è disponibile anche il passaggio tramite Amministratore → Controlla aggiornamenti.
+- **PC nuovo:** usa il programma di installazione dal server.
+- **PC non collegato a Hetzner:** chiedi al responsabile un codice di collegamento per il ristorante. I dati esistenti vengono verificati e conservati.
 
-[Istruzioni e novità](NOVITA-0.6.101.md) · [Collaudo](COLLAUDO-0.6.101.md) · [Hash SHA-256](SHA256SUMS-0.6.101.txt)
-
-Il pacchetto aggiorna installazioni esistenti, conserva i dati e crea una copia dei file sostituiti. Non installa nulla automaticamente su altri PC. Dalla versione 0.6.101, i successivi aggiornamenti firmati sono disponibili tramite **Admin → Controlla aggiornamenti**.
+Questo repository conserva gli archivi precedenti. Il suo ultimo indice firmato serve soltanto per il passaggio a Hetzner; dalla versione 0.6.102 il programma usa direttamente il nuovo server. Nessuna installazione è forzata sugli altri PC.

@@ -4,7 +4,7 @@ Dal 30 settembre 2026, gli aggiornamenti di BWA Desktop vengono pubblicati su He
 
 [Download e istruzioni dal nuovo server](https://mini-matteo.91-99-106-41.sslip.io/updates/)
 
-- **BWA già installato:** scarica dal server l’aggiornamento manuale 0.6.102.1, salva il lavoro e scegli Esci in BWA prima di avviarlo.
+- **BWA già installato:** scarica dal server l’aggiornamento manuale 0.6.102.2, salva il lavoro e scegli Esci in BWA prima di avviarlo.
 - **Versione 0.6.101 o successiva:** è disponibile anche il passaggio tramite Amministratore → Controlla aggiornamenti.
 - **PC nuovo:** usa il programma di installazione dal server.
 - **PC non collegato a Hetzner:** chiedi al responsabile un codice di collegamento per il ristorante. I dati esistenti vengono verificati e conservati.
